@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @texas-flavoured-canadien
-- 👀 I’m interested in statistics
+- 👀 I’m interested in lingustics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on science fair
 - ⚡ Fun fact: my favourite musical is EPIC: The Musical !
