@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @texas-flavoured-canadien
 - 👀 I’m interested in lingustics and biomedical engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on science fair
 - ⚡ Fun fact: my favourite musical is EPIC: The Musical
 
