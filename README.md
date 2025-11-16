@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @texas-flavoured-canadien
 - 👀 I’m interested in lingustics and medicine
-- 🌱 I’m currently learning Statistics
+- 🌱 mi toki pona
 - 💞️ I’m looking to collaborate on computational biology
-- ⚡ Fun fact: marvel > dc. mi toki pona
+- ⚡ Fun fact: marvel > dc
 
 <!---
 texas-flavoured-canadien/texas-flavoured-canadien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
