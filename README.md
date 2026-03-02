@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational lingustics and medicine
 - 🌱 mi toki pona
 - 💞️ I’m looking to collaborate on speech science and ASL
-- ⚡ My top three favourite words: 'gord', 'pride', 'ducky'
+- ⚡ My top three favourite words are 'gord', 'pride', and 'undulate'
 
 <!---
 texas-flavoured-canadien/texas-flavoured-canadien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
